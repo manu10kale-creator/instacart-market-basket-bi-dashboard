@@ -184,5 +184,6 @@ Explore slicers & visuals
 
 ✨ Author
 
-Hrishi Kale
+Hrishikesh Kale
+
 
