@@ -104,8 +104,11 @@ https://drive.google.com/file/d/1FALHlDtjH7HlLFo7GyQ_fQg0r3O2d_NX/view?usp=shari
 📊 Dashboard Preview
 
 
-![Dashboard Screenshot](screenshots/2.png)
-![Data Model](screenshots/1.png)
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](https://raw.githubusercontent.com/manu10kale-creator/instacart-market-basket-bi-dashboard/main/Screenshots/2.png)
+
+![Data Model](https://raw.githubusercontent.com/manu10kale-creator/instacart-market-basket-bi-dashboard/main/Screenshots/1.png)
 
 📦 Dataset
 
@@ -182,3 +185,4 @@ Explore slicers & visuals
 ✨ Author
 
 Hrishi Kale
+
